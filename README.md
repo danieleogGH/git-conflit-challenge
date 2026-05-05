@@ -1,1 +1,1 @@
-Modification faite en local
+# Version finale : fusion des deux modifications
